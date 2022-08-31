@@ -76,6 +76,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     val name:String = "Elena"
+    val name_2:String = "dMITRIY"
 
     override fun onRequestPermissionsResult(
         requestCode: Int,
