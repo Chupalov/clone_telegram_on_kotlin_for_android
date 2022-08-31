@@ -75,6 +75,8 @@ class MainActivity : AppCompatActivity() {
         AppStates.updateState(AppStates.OFFLINE)
     }
 
+    val name:String = "Elena"
+
     override fun onRequestPermissionsResult(
         requestCode: Int,
         permissions: Array<out String>,
